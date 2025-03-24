@@ -1,0 +1,23 @@
+html,body{
+background-color: black !important;
+}
+
+.hogyoku{
+    color: rgb(84, 84, 250) !important;
+    font-weight: bold;
+}
+.aizenforms{
+    color: rgb(201, 64, 201);
+    font-weight: bold;
+}
+.poderes{
+    color: violet;
+    font-weight: bold;
+}
+.grupoCards{
+    display: flex !important;
+
+}
+.card{
+    margin: 0px 20px;
+}
